@@ -10,7 +10,7 @@ use pocketmine\network\mcpe\protocol\AddActorPacket;
 use pocketmine\network\mcpe\protocol\BossEventPacket;
 use pocketmine\Player;
 
-final class BossBarAPI{
+class BossBarAPI{
 
     private static int $entityId;
 
